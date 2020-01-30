@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aebeuchaix.devicelolli.com/sitemap.xml
